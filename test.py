@@ -6,3 +6,5 @@ print("Hello, " + name)
 
 residence = input("Where do you live")
 print("You live in " + residence)
+
+print("Have a nice day, Goodbye!!")
